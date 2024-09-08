@@ -20,6 +20,6 @@ HTML  CSS  JavaScript
 Frameworks/Libraries:
 Typescript  React NextJS  TailwindCSS 
 Tools & Platforms:
-Git  npm  GitHub  Klaviyo  VSCode 
+Git  npm  GitHub  VSCode 
 
 
