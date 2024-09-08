@@ -3,14 +3,23 @@
 <!--
 **mokssebina/mokssebina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey there, my name is Moks and it's a pleasure to meet you! 👋
+About Me
+I am a Frontend Web Developer, with a love of immersive technologies like XV and VR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience
+I have 3 plus years of experience creating interfaces for, adding features to and maintaining a self-service sutomer portal for a major corporation in Botswana insurance industry.
+
+
+
+🛠️ Technologies & Skills
+My toolkit includes, but is not limited to:
+
+Languages
+HTML  CSS  JavaScript 
+Frameworks/Libraries:
+Typescript  React NextJS  TailwindCSS 
+Tools & Platforms:
+Git  npm  GitHub  Klaviyo  VSCode 
+
+
